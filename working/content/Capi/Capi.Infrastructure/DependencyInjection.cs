@@ -1,7 +1,4 @@
-﻿using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-
-namespace Capi.Infrastructure;
+﻿namespace Capi.Infrastructure;
 
 public static class DependencyInjection
 {

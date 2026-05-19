@@ -1,7 +1,3 @@
-using Capi.API;
-using Capi.Application;
-using Capi.Infrastructure;
-
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services
